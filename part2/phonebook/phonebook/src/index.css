@@ -1,0 +1,16 @@
+html {
+  color: green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+h2 {
+  color: white;
+  background-color: darkgreen;
+  font-size: bold;
+  padding-top: 3px;
+  padding-left: 3px;
+  font-size: 15px;
+}
+
+  
